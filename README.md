@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cloudisaac
 - Science | Technology | Engineering
 - Software Developer & Multi-Cloud Consultant
-- 👀 I’m interested in Software Engineering, Serverless Techology, Cloud Techonology
+- 👀 I’m interested in Software Engineering, Serverless Techonology, Cloud Techonology
 - 🌱 I’m currently learning Software Engineering 
 - 💞️ I’m looking to collaborate on Projects in AI & ML
 - 📫 How to reach me @Cloudisaac
